@@ -1,0 +1,5 @@
+git pull
+git checkout -p new_branch
+git status
+git branch
+git add .
