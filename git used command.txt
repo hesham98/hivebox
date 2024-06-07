@@ -3,3 +3,7 @@ git checkout -p new_branch
 git status
 git branch
 git add .
+git push -u origin new_branch
+
+git rm file1.txt
+git commit -m "remove file1.txt"
